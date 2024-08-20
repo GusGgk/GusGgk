@@ -6,12 +6,32 @@
 👽Olá, me chamo Gustavo Giacoia Kumagai! <br>
 💬Sou um estudante do último ano do ensino médio, apaixonado por tecnologia e gestão. Atualmente, estou cursando ensino médio técnico em administração e cooperativismo tendo um conhecimento amplo, principalmente em contabilidade, mas meu verdadeiro interesse está na área de TI, especialmente em gestão de projetos. Estou me preparando para ingressar na faculdade nessa área e já estou aprendendo inglês e desenvolvendo minhas habilidades em TI para alcançar meus objetivos profissionais.
 
-Além disso, participei de cursos de metodologias ágeis, que são essenciais para a gestão eficaz de projetos na área de TI. Também estou me aprofundando no desenvolvimento web, adquirindo conhecimentos em linguagens como HTML, CSS e JavaScript. Além disso, estou estudando alguns conhecimentos de análise de dados com ferramentas como o Power BI , o que me permite aplicar meu aprendizado em programação de forma criativa e prática. Essas experiências têm me ajudado a construir uma base sólida para minha futura carreira na área de tecnologia da informação, especialmente em gestão de projetos.
-## 🛜 Conecte-se Comigo!
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40px">
+Além disso, participei de cursos de metodologias ágeis, que são essenciais para a gestão eficaz de projetos na área de TI. Também estou me aprofundando no desenvolvimento web, adquirindo conhecimentos em linguagens como HTML, CSS e JavaScript. Além disso, estou estudando alguns conhecimentos de análise de dados com ferramentas como o Power BI , o que me permite aplicar meu aprendizado em programação de forma criativa e prática.Análogo a isso, também estou estudando tecnologias back-end que são essenciais para meu futuro profissional, me especializando em Python, RaspberryPI, entre outras tecnologias para me tornar um excelente profissional e talvez full-stack. Essas experiências têm me ajudado a construir uma base sólida para minha futura carreira na área de tecnologia da informação, especialmente em gestão de projetos.
+## 📱 Conecte-se Comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-giacoia-kumagai-35abb2278/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GusGgk)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gukumagai@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/_gustavo.gk/)
+---------
+## 💻 Minhas Tecnologias!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50px" />
+---------
+
+## Cursos e Certificados!
+
+
+
 
 
 
 ## Github Status
 ![GusGgk GitHub stats](https://github-readme-stats.vercel.app/api?username=GusGgk&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GusGgk&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
