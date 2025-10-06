@@ -4,7 +4,7 @@
 ![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 👨‍💻 Sobre mim
-Sou Gustavo Giacoia Kumagai, estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo, onde desenvolvi uma base sólida em áreas como contabilidade e processos organizacionais. No entanto, meu principal foco está voltado à tecnologia e, especialmente, à gestão de projetos de TI.
+Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo, onde desenvolvi uma base sólida em áreas como contabilidade e processos organizacionais. No entanto, meu principal foco está voltado à tecnologia e, especialmente, à gestão de projetos de TI.
 Atualmente, possuo nível intermediário em inglês (em formação) e estou em constante desenvolvimento técnico e profissional, buscando consolidar uma carreira na área de Tecnologia da Informação com foco em gestão e inovação.
 
 🎯 Resumo das Competências Técnicas e Ferramentas
@@ -26,7 +26,7 @@ Atuo com foco em resultados, aprendizado contínuo e visão sistêmica — carac
 
 ## 📱 Conecte-se Comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-giacoia-kumagai-35abb2278/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-giacoia-kumagai/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GusGgk)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gukumagai@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/_gustavo.gk/)
@@ -87,6 +87,9 @@ Atuo com foco em resultados, aprendizado contínuo e visão sistêmica — carac
     </td>
     <td align="center" style="border: none;">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40px"/><br>Excel
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40px"/><br>Docker
     </td>
   </tr>
 </table>
