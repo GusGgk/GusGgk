@@ -103,7 +103,7 @@ Atuo com foco em resultados, aprendizado contínuo e visão sistêmica — carac
 |DIO - Python AI Backend Developer VIVO| [Certificado](https://hermes.dio.me/certificates/FUXDWHVI.pdf)|
 |DIO - Formação Github Certification| [Certificado](https://hermes.dio.me/certificates/VCPCSGVH.pdf)|
 |Escola Conquer - Inteligência Artificial | [Certificado](https://drive.conqueronline.com.br/CertificadosTeste/Inteligência%20Artificial:%20eleve%20sua%20produtividade%20e%20acelere%20sua%20carreira/1719268902733-e71fa84f-78bf-4a74-91ed-d1541fec4812.jpeg)|
-|RocketSeat - NLW Unite Fullstack | [Certificado](https://app.rocketseat.com.br/certificates/91aa8503-847c-42c8-ace0-05e0b2209b8b)|
+|GRAN Faculdades -Análise de dados e Inteligência de Negócios | [Certificado](https://docs-cdn.infra.grancursosonline.com.br/protocolos/alunos/320293/354840/352047/certificado-curso-livre_55681756093193.pdf?Expires=1756097448&Signature=d0eeSGiXIfu7BVoyF1Ewjo-8qTzFZh38W1~xCq8XeSPypKzBTZ91FLTtUEYw3BtGmxK2tKPVTebHOHP0IM3snmMsgt2xEInkj1eWWkY-cajX2e9dhSJYiQ-3RpgwF-iy14GfIYwE1AbtP2TMaXpxvDAUYeJzo62OTFeO1BJJrCdW8rB6BctFU1~aDuLFeg6S6MEP~FBQGsMipJoThpYZg-D-XvjxZz5hoAnYmkl6mhnYnebPnRVRsmgs2lPB3nLGkWmnVKJMyGjYxPaQAbt9VC1UaP88p8nZAwGnHvQPSeUfMckkZN~HN1KyKiLaJ3ljCw9n7WCFzaeK44u4zEHY6g__&Key-Pair-Id=APKAJWDRH5QWMLF2KNSA)|
 |DIO - Formação Lógica de Programação| [Certificado](https://hermes.dio.me/certificates/8OD2E78F.pdf)|
 Loading...
 
