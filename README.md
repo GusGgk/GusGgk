@@ -3,25 +3,29 @@
 
 ![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-👨‍💻 Sobre mim
-Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo, onde desenvolvi uma base sólida em áreas como contabilidade e processos organizacionais. No entanto, meu principal foco está voltado à tecnologia e, especialmente, à gestão de projetos de TI.
-Atualmente, possuo nível intermediário em inglês (em formação) e estou em constante desenvolvimento técnico e profissional, buscando consolidar uma carreira na área de Tecnologia da Informação com foco em gestão e inovação.
+💭 
+Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo (2024). Essa combinação me proporcionou uma visão completa de processos, negócios e tecnologia, o que tem guiado minha trajetória profissional.
 
-🎯 Resumo das Competências Técnicas e Ferramentas
+Durante a graduação, tenho me desenvolvido com foco em inovação, estratégia, processos e desenvolvimento de software, buscando sempre unir visão técnica e pensamento analítico. Atualmente, tenho inglês intermediário (em formação) e participo de projetos práticos voltados à transformação digital e à automação inteligente.
 
-- **Back-end**: Desenvolvimento com Python e JSON, Aprendendo Java e C#.
-- **Front-end**: Experiência com HTML, CSS, JavaScript, React.js e conhecimento prático em Next.js.
-- **Mobile**: Desenvolvimento de aplicações Android com Kotlin.
-- **Controle de versões**: Certificação e domínio em Git e GitHub.
-- **Robótica e IoT**: Projetos com Arduino e Raspberry Pi.
-- **Modelagem e Processos**: Utilização do Bizagi para mapeamento e gestão de processos de software.
-- **Business Intelligence**: Conhecimentos em Power BI para análise e visualização de dados.
-- **Metodologias Ágeis**: Formação complementar em Scrum e outras abordagens ágeis para gestão de projetos.
+Atualmente, atuo como estagiário na Zenvia Paraná Central, desenvolvendo APIs, Chatbots e soluções com Inteligência Artificial utilizando JavaScript. Além do desenvolvimento, participo ativamente da construção de ideias e conversas com clientes, contribuindo para a criação de soluções que conectam tecnologia e valor de negócio.
 
-🔄 Formação Complementar
+💻 Competências Técnicas
 
-Participei de programas e trilhas formativas em lógica de programação, metodologias ágeis e ferramentas de desenvolvimento, o que tem contribuído significativamente para meu amadurecimento técnico e estratégico.
-Atuo com foco em resultados, aprendizado contínuo e visão sistêmica — características que considero essenciais para liderar e colaborar em projetos de tecnologia com eficiência e impacto.
+Back-end: Python, JSON | Estudando: Java e C#
+Front-end: HTML, CSS, JavaScript, React.js (com noções em Next.js)
+Mobile: Kotlin (Android)
+Banco de Dados: SQL
+Versionamento: Git e GitHub (certificado, com participação em projetos open source)
+Business Intelligence: Power BI — análise e visualização de dados
+Modelagem de Processos: Bizagi e Astah — mapeamento e otimização de fluxos
+Metodologias Ágeis: Scrum e práticas modernas de gestão
+
+🧠 Mentalidade e Desenvolvimento
+
+Acredito no poder do aprendizado contínuo e da inovação como motor de transformação. Tenho participado de trilhas de capacitação em programação, metodologias ágeis e desenvolvimento de software, o que vem fortalecendo minha base técnica e estratégica.
+
+Meu objetivo é crescer como profissional de tecnologia, contribuindo para projetos que integrem inteligência, propósito e impacto real.
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 📱 Conecte-se Comigo!
