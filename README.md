@@ -3,31 +3,28 @@
 
 ![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-💭 
-Welcome!
+Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo (2024). Essa combinação me proporcionou uma visão ampla sobre processos de negócio e tecnologia, direcionando minha trajetória profissional para a construção de soluções que unem estratégia e execução técnica.
 
-I’m a Software Engineering student at PUCPR, with a technical background in Administration and Cooperativism (2024). This combination has given me a broad understanding of business processes and technology, which guides my professional journey.
+Ao longo da graduação, venho desenvolvendo competências voltadas para inovação, estratégia, modelagem de processos e desenvolvimento de software, sempre buscando conectar pensamento técnico com visão analítica. Possuo nível intermediário de inglês (em evolução contínua) e participo de projetos práticos relacionados à transformação digital e automação inteligente.
 
-Throughout my degree, I’ve been developing skills focused on innovation, strategy, processes, and software development, always seeking to connect technical thinking with analytical vision. I currently have an intermediate level of English (in progress) and take part in practical projects related to digital transformation and intelligent automation.
+Atualmente, atuo como estagiário na Zenvia Paraná Central, onde desenvolvo APIs, chatbots e soluções com Inteligência Artificial utilizando JavaScript. Além da parte técnica, também participo de discussões com clientes e da construção de soluções, contribuindo para conectar tecnologia a valor real de negócio.
 
-At the moment, I work as an intern at Zenvia Paraná Central, where I develop APIs, Chatbots, and AI-powered solutions using JavaScript. Beyond development, I also participate in client discussions and idea building, helping to create solutions that connect technology and business value.
+💻 Competências Técnicas
 
-💻Technical Skills - 
-
-Back-end: Python, JSON | Currently learning Java and C#
-Front-end: HTML, CSS, JavaScript, React.js (basic knowledge of Next.js)
+Back-end: Python, JSON | Em evolução: Java e C#
+Front-end: HTML, CSS, JavaScript, React.js (conhecimento básico em Next.js)
 Mobile: Kotlin (Android)
-Databases: SQL
-Version Control: Git and GitHub (certified, with open-source project experience)
-Business Intelligence: Power BI — data analysis and visualization
-Process Modeling: Bizagi and Astah — process mapping and optimization
-Agile Methodologies: Scrum and modern management practices
+Banco de Dados: SQL
+Versionamento: Git e GitHub (certificado, com experiência em projetos open-source)
+Business Intelligence: Power BI — análise e visualização de dados
+Modelagem de Processos: Bizagi e Astah — mapeamento e otimização de processos
+Metodologias Ágeis: Scrum e práticas modernas de gestão
 
-🧠Mindset and Development-
+🧠 Mentalidade e Desenvolvimento
 
-I believe in the power of continuous learning and innovation as a driver of transformation. I’ve participated in several learning paths focused on programming, agile methodologies, and software development, which have strengthened my technical and strategic foundation.
+Acredito no aprendizado contínuo e na inovação como motores de transformação. Participo constantemente de trilhas de estudo focadas em programação, metodologias ágeis e engenharia de software, fortalecendo tanto minha base técnica quanto estratégica.
 
-My goal is to grow as a technology professional, contributing to projects that combine intelligence, purpose, and real impact.
+Meu objetivo é evoluir como profissional de tecnologia, contribuindo para projetos que combinem inteligência, propósito e impacto real.
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 📱 Conecte-se Comigo!
