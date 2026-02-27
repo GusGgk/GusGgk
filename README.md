@@ -82,30 +82,27 @@ Meu objetivo é evoluir como profissional de tecnologia, contribuindo para proje
 
 <a href="https://hermes.dio.me/certificates/FUXDWHVI.pdf">
   <img src="https://img.shields.io/badge/DIO-Python_AI_Backend_Developer_VIVO-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+</a> <br>
 
 <a href="https://hermes.dio.me/certificates/VCPCSGVH.pdf">
   <img src="https://img.shields.io/badge/DIO-GitHub_Certification-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a><br>
 
 <a href="https://drive.conqueronline.com.br/CertificadosTeste/Inteligência%20Artificial:%20eleve%20sua%20produtividade%20e%20acelere%20sua%20carreira/1719268902733-e71fa84f-78bf-4a74-91ed-d1541fec4812.jpeg">
   <img src="https://img.shields.io/badge/Escola_Conquer-Inteligência_Artificial-00C853?style=for-the-badge&logo=openaigym&logoColor=white"/>
-</a>
+</a><br>
 
 <a href="https://docs-cdn.infra.grancursosonline.com.br/protocolos/alunos/320293/354840/352047/certificado-curso-livre_55681756093193.pdf">
   <img src="https://img.shields.io/badge/GRAN_Faculdades-Análise_de_Dados_&_BI-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</a>
+</a><br>
 
 <a href="https://hermes.dio.me/certificates/8OD2E78F.pdf">
   <img src="https://img.shields.io/badge/DIO-Lógica_de_Programação-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
+</a><br>
 
 </p>
 
 ## ⚡ GitHub Performance Dashboard
-<p align="center">
-  <img src="https://ghchart.rshah.org/3D2670/GusGgk" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GusGgk&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
