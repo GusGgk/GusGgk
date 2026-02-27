@@ -1,120 +1,140 @@
-<h1 align="center"> Hello World! I'm Gustavo Giacoia Kumagai </h1>
+<h1 align="center">Hello World! I´m Gustavo Giacoia Kumagai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=3D2670&size=28&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Automation+Builder;Fullstack+Developer;" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GusGgk&color=blue&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/GusGgk?style=social"/>
+</p>
 
 ![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+🗨️
 Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo (2024). Essa combinação me proporcionou uma visão ampla sobre processos de negócio e tecnologia, direcionando minha trajetória profissional para a construção de soluções que unem estratégia e execução técnica.
 
 Ao longo da graduação, venho desenvolvendo competências voltadas para inovação, estratégia, modelagem de processos e desenvolvimento de software, sempre buscando conectar pensamento técnico com visão analítica. Possuo nível intermediário de inglês (em evolução contínua) e participo de projetos práticos relacionados à transformação digital e automação inteligente.
 
 Atualmente, atuo como estagiário na Zenvia Paraná Central, onde desenvolvo APIs, chatbots e soluções com Inteligência Artificial utilizando JavaScript. Além da parte técnica, também participo de discussões com clientes e da construção de soluções, contribuindo para conectar tecnologia a valor real de negócio.
 
-💻 Competências Técnicas
-
-Back-end: Python, JSON | Em evolução: Java e C#
-Front-end: HTML, CSS, JavaScript, React.js (conhecimento básico em Next.js)
-Mobile: Kotlin (Android)
-Banco de Dados: SQL
-Versionamento: Git e GitHub (certificado, com experiência em projetos open-source)
-Business Intelligence: Power BI — análise e visualização de dados
-Modelagem de Processos: Bizagi e Astah — mapeamento e otimização de processos
-Metodologias Ágeis: Scrum e práticas modernas de gestão
-
 🧠 Mentalidade e Desenvolvimento
 
 Acredito no aprendizado contínuo e na inovação como motores de transformação. Participo constantemente de trilhas de estudo focadas em programação, metodologias ágeis e engenharia de software, fortalecendo tanto minha base técnica quanto estratégica.
 
 Meu objetivo é evoluir como profissional de tecnologia, contribuindo para projetos que combinem inteligência, propósito e impacto real.
+
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📱 Conecte-se Comigo!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-giacoia-kumagai/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GusGgk)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gukumagai@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/_gustavo.gk/)
 
 
-## 💻 Minhas Tecnologias!
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"/><br>Python
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/><br>Git
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px"/><br>CSS3
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/><br>HTML5
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/><br>JavaScript
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40px"/><br>Markdown
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/><br>React
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.simpleicons.org/json" width="40px"/><br>JSON
-    </td>
-  </tr>
-</table>
+## 💻 Tech Stack
 
-<br/>
+---
 
-## 🛠️ Minhas Ferramentas!
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40px"/><br>Raspberry Pi
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40px"/><br>Arduino
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40px"/><br>GitHub
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px"/><br>VS Code
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.brandfetch.io/idYImgMHFx/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1749853165441" width="40px"/><br>Bizagi
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40px"/><br>Canva
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40px"/><br>Excel
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40px"/><br>Docker
-    </td>
-  </tr>
-</table>
+### 🧠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,nodejs,flask,django" />
+</p>
 
+---
 
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap" />
+</p>
 
+---
 
-## ✅ Cursos e Certificados!
-|Cursos | Certificados |
-|-------|--------------|
-|DIO - Python AI Backend Developer VIVO| [Certificado](https://hermes.dio.me/certificates/FUXDWHVI.pdf)|
-|DIO - Formação Github Certification| [Certificado](https://hermes.dio.me/certificates/VCPCSGVH.pdf)|
-|Escola Conquer - Inteligência Artificial | [Certificado](https://drive.conqueronline.com.br/CertificadosTeste/Inteligência%20Artificial:%20eleve%20sua%20produtividade%20e%20acelere%20sua%20carreira/1719268902733-e71fa84f-78bf-4a74-91ed-d1541fec4812.jpeg)|
-|GRAN Faculdades -Análise de dados e Inteligência de Negócios | [Certificado](https://docs-cdn.infra.grancursosonline.com.br/protocolos/alunos/320293/354840/352047/certificado-curso-livre_55681756093193.pdf?Expires=1756097448&Signature=d0eeSGiXIfu7BVoyF1Ewjo-8qTzFZh38W1~xCq8XeSPypKzBTZ91FLTtUEYw3BtGmxK2tKPVTebHOHP0IM3snmMsgt2xEInkj1eWWkY-cajX2e9dhSJYiQ-3RpgwF-iy14GfIYwE1AbtP2TMaXpxvDAUYeJzo62OTFeO1BJJrCdW8rB6BctFU1~aDuLFeg6S6MEP~FBQGsMipJoThpYZg-D-XvjxZz5hoAnYmkl6mhnYnebPnRVRsmgs2lPB3nLGkWmnVKJMyGjYxPaQAbt9VC1UaP88p8nZAwGnHvQPSeUfMckkZN~HN1KyKiLaJ3ljCw9n7WCFzaeK44u4zEHY6g__&Key-Pair-Id=APKAJWDRH5QWMLF2KNSA)|
-|DIO - Formação Lógica de Programação| [Certificado](https://hermes.dio.me/certificates/8OD2E78F.pdf)|
-Loading...
+### 🔗 APIs & Integrações
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
+---
 
+### 🗄 Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
+---
 
+### ⚙️ Ferramentas & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,markdown,notion,npm" />
+</p>
 
-## Github Status
-![GusGgk GitHub stats](https://github-readme-stats.vercel.app/api?username=GusGgk&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusGgk&layout=compact&theme=highcontrast)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/trello.png" height="40"/>
+  <img src="https://cdn.brandfetch.io/idYImgMHFx/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1749853165441" width="40px"/>
+</p>
 
+---
+
+### 🤖 Hardware & IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+## 🎓 Cursos & Certificações
+
+<p align="center">
+
+<a href="https://hermes.dio.me/certificates/FUXDWHVI.pdf">
+  <img src="https://img.shields.io/badge/DIO-Python_AI_Backend_Developer_VIVO-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://hermes.dio.me/certificates/VCPCSGVH.pdf">
+  <img src="https://img.shields.io/badge/DIO-GitHub_Certification-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://drive.conqueronline.com.br/CertificadosTeste/Inteligência%20Artificial:%20eleve%20sua%20produtividade%20e%20acelere%20sua%20carreira/1719268902733-e71fa84f-78bf-4a74-91ed-d1541fec4812.jpeg">
+  <img src="https://img.shields.io/badge/Escola_Conquer-Inteligência_Artificial-00C853?style=for-the-badge&logo=openaigym&logoColor=white"/>
+</a>
+
+<a href="https://docs-cdn.infra.grancursosonline.com.br/protocolos/alunos/320293/354840/352047/certificado-curso-livre_55681756093193.pdf">
+  <img src="https://img.shields.io/badge/GRAN_Faculdades-Análise_de_Dados_&_BI-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</a>
+
+<a href="https://hermes.dio.me/certificates/8OD2E78F.pdf">
+  <img src="https://img.shields.io/badge/DIO-Lógica_de_Programação-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+</a>
+
+</p>
+
+## ⚡ GitHub Performance Dashboard
+<p align="center">
+  <img src="https://ghchart.rshah.org/3D2670/GusGgk" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GusGgk&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GusGgk&bg_color=0d1117&color=7C4DFF&line=3D2670&point=48BFE3&area=true&hide_border=true"/>
+</p>
+
+## 🌎 Vamos nos Conectar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-giacoia-kumagai/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GusGgk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gukumagai@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_gustavo.gk/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=3D2670&size=18&center=true&vCenter=true&width=500&lines=Aberto+a+novas+oportunidades;Colaborações+em+projetos+inovadores;" />
+</p>
