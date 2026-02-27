@@ -4,28 +4,30 @@
 ![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 💭 
-Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo (2024). Essa combinação me proporcionou uma visão completa de processos, negócios e tecnologia, o que tem guiado minha trajetória profissional.
+Welcome!
 
-Durante a graduação, tenho me desenvolvido com foco em inovação, estratégia, processos e desenvolvimento de software, buscando sempre unir visão técnica e pensamento analítico. Atualmente, tenho inglês intermediário (em formação) e participo de projetos práticos voltados à transformação digital e à automação inteligente.
+I’m a Software Engineering student at PUCPR, with a technical background in Administration and Cooperativism (2024). This combination has given me a broad understanding of business processes and technology, which guides my professional journey.
 
-Atualmente, atuo como estagiário na Zenvia Paraná Central, desenvolvendo APIs, Chatbots e soluções com Inteligência Artificial utilizando JavaScript. Além do desenvolvimento, participo ativamente da construção de ideias e conversas com clientes, contribuindo para a criação de soluções que conectam tecnologia e valor de negócio.
+Throughout my degree, I’ve been developing skills focused on innovation, strategy, processes, and software development, always seeking to connect technical thinking with analytical vision. I currently have an intermediate level of English (in progress) and take part in practical projects related to digital transformation and intelligent automation.
 
-💻 Competências Técnicas
+At the moment, I work as an intern at Zenvia Paraná Central, where I develop APIs, Chatbots, and AI-powered solutions using JavaScript. Beyond development, I also participate in client discussions and idea building, helping to create solutions that connect technology and business value.
 
-Back-end: Python, JSON | Estudando: Java e C#
-Front-end: HTML, CSS, JavaScript, React.js (com noções em Next.js)
+💻Technical Skills - 
+
+Back-end: Python, JSON | Currently learning Java and C#
+Front-end: HTML, CSS, JavaScript, React.js (basic knowledge of Next.js)
 Mobile: Kotlin (Android)
-Banco de Dados: SQL
-Versionamento: Git e GitHub (certificado, com participação em projetos open source)
-Business Intelligence: Power BI — análise e visualização de dados
-Modelagem de Processos: Bizagi e Astah — mapeamento e otimização de fluxos
-Metodologias Ágeis: Scrum e práticas modernas de gestão
+Databases: SQL
+Version Control: Git and GitHub (certified, with open-source project experience)
+Business Intelligence: Power BI — data analysis and visualization
+Process Modeling: Bizagi and Astah — process mapping and optimization
+Agile Methodologies: Scrum and modern management practices
 
-🧠 Mentalidade e Desenvolvimento
+🧠Mindset and Development-
 
-Acredito no poder do aprendizado contínuo e da inovação como motor de transformação. Tenho participado de trilhas de capacitação em programação, metodologias ágeis e desenvolvimento de software, o que vem fortalecendo minha base técnica e estratégica.
+I believe in the power of continuous learning and innovation as a driver of transformation. I’ve participated in several learning paths focused on programming, agile methodologies, and software development, which have strengthened my technical and strategic foundation.
 
-Meu objetivo é crescer como profissional de tecnologia, contribuindo para projetos que integrem inteligência, propósito e impacto real.
+My goal is to grow as a technology professional, contributing to projects that combine intelligence, purpose, and real impact.
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 📱 Conecte-se Comigo!
