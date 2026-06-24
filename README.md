@@ -17,38 +17,45 @@
 </div>
 
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-🗨️
-Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo (2024). Essa combinação me proporcionou uma visão ampla sobre processos de negócio e tecnologia, direcionando minha trajetória profissional para a construção de soluções que unem estratégia e execução técnica.
 
-Ao longo da graduação, venho desenvolvendo competências voltadas para inovação, estratégia, modelagem de processos e desenvolvimento de software, sempre buscando conectar pensamento técnico com visão analítica. Possuo nível intermediário de inglês (em evolução contínua) e participo de projetos práticos relacionados à transformação digital e automação inteligente.
+Sou estudante de Engenharia de Software na PUCPR, com formação técnica em Administração e Cooperativismo (2024).
 
+Essa combinação me dá uma compreensão sólida dos processos de negócios e da tecnologia, ajudando-me a preencher a lacuna entre estratégia e execução técnica.
+Atualmente trabalho como estagiária na Vivo (Telefônica Brasil), apoiando a área de tecnologia B2B. Minha função envolve entender as demandas empresariais e contribuir para o desenvolvimento e estruturação de soluções tecnológicas para clientes corporativos.
 
+Anteriormente, trabalhei na Zenvia Paraná Central, onde desenvolvi APIs, chatbots e soluções alimentadas por IA usando JavaScript. Também participei de interações com clientes e design de soluções, ajudando a transformar as necessidades de negócios em soluções tecnológicas escaláveis. 
 
-🧠 Mentalidade e Desenvolvimento
+Além da minha experiência profissional, tenho uma forte mentalidade empreendedora e gosto de construir projetos pessoais focados em engenharia de software, inteligência artificial, automação e inovação digital.
 
-Acredito no aprendizado contínuo e na inovação como motores de transformação. Participo constantemente de trilhas de estudo focadas em programação, metodologias ágeis e engenharia de software, fortalecendo tanto minha base técnica quanto estratégica.
+Meu objetivo é construir uma carreira sólida em tecnologia e, ao mesmo tempo, criar soluções que gerem impacto real e conectem tecnologia com valor comercial.
 
-Meu objetivo é evoluir como profissional de tecnologia, contribuindo para projetos que combinem inteligência, propósito e impacto real.
+## 🎯 Highlights
 
-💼 Histórico Profissional
-
-2025-2026 Estágio na Zenvia Paraná Central, onde desenvolvi APIs, chatbots e soluções com Inteligência Artificial utilizando JavaScript. Além da parte técnica, também participei de discussões com clientes e da construção de soluções, contribuindo para conectar tecnologia a valor real de negócio.
+- 🎓 Software Engineering Student at PUCPR
+- 💼 Technology Intern at Vivo (Telefônica Brasil)
+- 🤖 Former AI & Automation Developer at Zenvia
+- 🚀 Founder of personal projects focused on AI and Sports Technology
+- 📊 Business-oriented mindset with technical execution
+- 🌎 Constant learner passionate about innovation and entrepreneurship
 
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 
 
 ## 💻 Tech Stack
-
-
-
 ### 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,nodejs,flask,django" />
+  Python • Java • JavaScript • TypeScript • PHP • Node.js • Laravel • Django
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,nodejs,laravel,django" />
 </p>
 
 
 ### 🎨 Frontend
+<p align="center">
+  HTML • CSS • React • Nextjs • Bootstrap
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap" />
 </p>
@@ -56,29 +63,56 @@ Meu objetivo é evoluir como profissional de tecnologia, contribuindo para proje
 
 ### 🔗 APIs & Integrações
 <p align="center">
+  Postman
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 
-### 🗄 Banco de Dados
+### 🗄 Banco de Dados & Backend as a Service (BaaS and PaaS)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  SQL • MySQL • Supabase • Vercel
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,vercel" />
 </p>
 
 
 ### ⚙️ Ferramentas & Workflow
+#### DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,markdown,notion,npm" />
+  Docker • Google Cloud • Git • Github • Npm
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,npm" />
 </p>
 
+#### Ambientes de Desenvolvimento
 <p align="center">
-  <img src="https://img.icons8.com/color/48/trello.png" height="40"/>
+  Windows • VS Code • Intellij IDEA • Markdown • Antigravity
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,vscode,idea,markdown" />
+</p>
+
+#### Modelagem, Produtividade & Gestão
+<p align="center">
+  Notion • Trello • Bizagi • Astah • UML • BPMN
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://img.icons8.com/color/48/trello.png" height="50"/>
   <img src="https://cdn.brandfetch.io/idYImgMHFx/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1749853165441" width="40px"/>
+  <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BPMN-0FA958?style=for-the-badge"/>
 </p>
 
----
 
 ### 🤖 Hardware & IoT
+<p align="center">
+  Arduino • Raspberrypi
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
@@ -122,6 +156,13 @@ Meu objetivo é evoluir como profissional de tecnologia, contribuindo para proje
 ## ⚡ GitHub Performance Dashboard
 
 <p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GusGgk&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGgk&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=GusGgk&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
 </p>
 
@@ -156,3 +197,4 @@ Meu objetivo é evoluir como profissional de tecnologia, contribuindo para proje
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C4DFF&height=80&section=footer" />
 </div>
+
