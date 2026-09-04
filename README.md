@@ -158,19 +158,22 @@ Meu objetivo é construir uma carreira sólida em tecnologia e, ao mesmo tempo, 
 
 ## ⚡ GitHub Performance Dashboard
 
+<!-- Card proprio, gerado por .github/scripts/gen_stats.py e atualizado todo dia
+     pelo workflow stats.yml. Substituiu o github-readme-stats, cujo deploy
+     publico foi pausado na Vercel (HTTP 503). -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GusGgk/GusGgk/main/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GusGgk/GusGgk/main/stats-light.svg">
+  <img width="100%" alt="Estatísticas do GitHub de Gustavo" src="https://raw.githubusercontent.com/GusGgk/GusGgk/main/stats-dark.svg">
+</picture>
+
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GusGgk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGgk&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GusGgk&theme=tokyonight&hide_border=true&ring=3D2670&fire=7C4DFF&currStreakLabel=7C4DFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GusGgk&bg_color=0d1117&color=7C4DFF&line=3D2670&point=48BFE3&area=true&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GusGgk&hide_border=true&background=0D1117&stroke=48BFE3&ring=7C4DFF&fire=48BFE3&currStreakLabel=48BFE3&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=GusGgk&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C4DFF&fire=0891B2&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8">
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=GusGgk&hide_border=true&background=0D1117&stroke=48BFE3&ring=7C4DFF&fire=48BFE3&currStreakLabel=48BFE3&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B">
+  </picture>
 </p>
 
 ## 🌎 Vamos nos Conectar

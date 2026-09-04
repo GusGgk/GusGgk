@@ -80,6 +80,7 @@ THEMES = {
         # pontinhos so funciona como luz sobre fundo escuro
         screen="#0A0E1A", screen_fg="#94A3B8", screen_dim="#475569",
         screen_hair="rgba(255,255,255,0.10)",
+        track="rgba(148,163,184,0.22)",   # trilho das barras (gen_stats)
     ),
     "light": dict(
         out="hero-light.svg",
@@ -95,6 +96,7 @@ THEMES = {
         grid="#94A3B8", live="#DC2626",
         screen="#0D1220", screen_fg="#94A3B8", screen_dim="#64748B",
         screen_hair="rgba(255,255,255,0.10)",
+        track="rgba(15,23,42,0.12)",
     ),
 }
 
