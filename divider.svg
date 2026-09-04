@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="40" viewBox="0 0 1180 40" role="img" aria-label="separador">
+<defs>
+<linearGradient id="rule" x1="0" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7C4DFF" stop-opacity="0"/>
+<stop offset="0.2" stop-color="#7C4DFF" stop-opacity="0.9"><animate attributeName="stop-color" values="#7C4DFF;#48BFE3;#3FB950;#7C4DFF" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="0.5" stop-color="#48BFE3" stop-opacity="1"><animate attributeName="stop-color" values="#48BFE3;#3FB950;#7C4DFF;#48BFE3" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="0.8" stop-color="#3FB950" stop-opacity="0.9"><animate attributeName="stop-color" values="#3FB950;#7C4DFF;#48BFE3;#3FB950" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#3FB950" stop-opacity="0"/>
+</linearGradient>
+<filter id="divGlow" x="-20%" y="-400%" width="140%" height="900%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<line x1="0" y1="20" x2="1180" y2="20" stroke="url(#rule)" stroke-width="4" opacity="0.45" filter="url(#divGlow)"/>
+<line x1="0" y1="20" x2="530" y2="20" stroke="url(#rule)" stroke-width="2.2"/>
+<line x1="650" y1="20" x2="1180" y2="20" stroke="url(#rule)" stroke-width="2.2"/>
+<line x1="90" y1="15" x2="90" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="180" y1="15" x2="180" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="270" y1="15" x2="270" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="360" y1="15" x2="360" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="450" y1="15" x2="450" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="720" y1="15" x2="720" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="810" y1="15" x2="810" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="900" y1="15" x2="900" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="990" y1="15" x2="990" y2="25" stroke="url(#rule)" stroke-width="1.8"/><line x1="1080" y1="15" x2="1080" y2="25" stroke="url(#rule)" stroke-width="1.8"/>
+<rect x="-3" y="17" width="6" height="6" rx="1.5" fill="#48BFE3"><animateMotion dur="5.5s" begin="0.0s" repeatCount="indefinite" path="M 40 20 L 1140 20"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="5.5s" begin="0.0s" repeatCount="indefinite"/></rect><rect x="-3" y="17" width="6" height="6" rx="1.5" fill="#48BFE3"><animateMotion dur="6.8s" begin="1.7s" repeatCount="indefinite" path="M 40 20 L 1140 20"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="6.8s" begin="1.7s" repeatCount="indefinite"/></rect><rect x="-3" y="17" width="6" height="6" rx="1.5" fill="#48BFE3"><animateMotion dur="8.1s" begin="3.4s" repeatCount="indefinite" path="M 40 20 L 1140 20"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="8.1s" begin="3.4s" repeatCount="indefinite"/></rect>
+<g transform="translate(590 20)" fill="#48BFE3" stroke="#48BFE3">
+<animate attributeName="fill" values="#48BFE3;#3FB950;#7C4DFF;#48BFE3" dur="10s" repeatCount="indefinite"/>
+<animate attributeName="stroke" values="#48BFE3;#3FB950;#7C4DFF;#48BFE3" dur="10s" repeatCount="indefinite"/>
+<path d="M -60 0 L -34 0 M 34 0 L 60 0" stroke-width="2.2"/>
+<circle cx="-24" cy="0" r="2.8" stroke="none"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="24" cy="0" r="2.8" stroke="none"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<path d="M 0 -9 L 9 0 L 0 9 L -9 0 Z" fill="#7C4DFF" stroke="none">
+<animateTransform attributeName="transform" type="rotate" from="0" to="180" dur="6s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#7C4DFF;#48BFE3;#3FB950;#7C4DFF" dur="10s" repeatCount="indefinite"/>
+</path>
+</g>
+</svg>
